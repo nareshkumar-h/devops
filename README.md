@@ -12,17 +12,7 @@
 #### Continuous deployment
 * If all tests are passed then the application can go immediately live and available to end users without any human approval
 
-#### Static code analysis (Sonar Cloud)
--	Analyzes your code for bad programming practices
--	Improvements or possible vulnerabilities
--	Does NOT execute or run my code
 
-
-#### Jenkins- Build and deployment automation tool 
-
-1.	Source code in a repository
-2.	Create an ec2 with Maven (building our application), Tomcat (hosting our application)
-3.	Installed Jenkins to read from that repository and automatically call Maven to build our application and deploy it on Tomcat
 
 
 
