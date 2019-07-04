@@ -39,3 +39,17 @@ Schematics for the ec2
 -	Stores information in buckets
 -	Stores things as objects like files (.txt or a .jpeg, html etc)
 #### Route 53 -  Amazon’s domain name service
+
+
+#### How do you connect EC2 instance from your Laptop ?
+* ssh - with keypair (.pem file)
+
+#### EC2 Server States
+* Running
+* Stop
+* Start
+* Reboot
+* Terminate
+
+#### AMI - Amazon Machine Image
+* Linux - micro - 64 bit
