@@ -39,6 +39,7 @@ Schematics for the ec2
 -	Stores information in buckets
 -	Stores things as objects like files (.txt or a .jpeg, html etc)
 #### Route 53 -  Amazon’s domain name service
+* Manages DNS
 
 
 #### How do you connect EC2 instance from your Laptop ?
