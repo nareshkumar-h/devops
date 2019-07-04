@@ -14,6 +14,7 @@
 * If all tests are passed then the application can go immediately live and available to end users without any human approval
 
 
+![](ci_cd.png)
 
 
 
