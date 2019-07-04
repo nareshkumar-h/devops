@@ -8,6 +8,4 @@
 * Setup Trigger
 
 #### Terms:
-* Job
-
-A Job is the term used for a Jenkins build workflow that you configure for a project.
+* Job - A Job is the term used for a Jenkins build workflow that you configure for a project.
