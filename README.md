@@ -4,7 +4,8 @@
 
 #### Continuous integration  
 * All developers push and pull code to a central repository accompanied with automatic builds and testing. 
-* Helps us fail fast to see what code works and what does not
+* Helps us fail fast to see what code works and what does not.
+* The process of integrating code daily and verifying changes with incremental builds.
 
 #### Continuous Delivery 
 * Successful builds which pass automated tests are stored in a staging area where they can be marked for deployment into the market. You might have a human assurance testing team at work before deployment.
