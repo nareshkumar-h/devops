@@ -38,8 +38,10 @@ Schematics for the ec2
 #### S3 – Simple Storage Service
 -	Stores information in buckets
 -	Stores things as objects like files (.txt or a .jpeg, html etc)
+- Used to host static files
 #### Route 53 -  Amazon’s domain name service
 * Manages DNS
+* DNS - Stores and resolves names into IP addresses when requested.
 
 
 #### How do you connect EC2 instance from your Laptop ?
